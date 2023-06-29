@@ -10,7 +10,7 @@ The basic building block of the EfficientNet architecture is mobile inverted bot
 
 # Architecture
 
-
+![efficientnetb7](https://github.com/khajaraouf/Segmentation_EfficientNetB7_Unet/assets/70451209/64853953-c860-454c-b859-1d8e4528559d)
 
 # Reference Papers
 
